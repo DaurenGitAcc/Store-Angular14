@@ -1,3 +1,6 @@
+![Гифка с Gifius ru](https://github.com/DaurenGitAcc/Store-Angular14/assets/114854020/f5756cc2-da5e-4584-9140-9796417cb9c5)
+
+
 # AngularCrashCourse2022
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
